@@ -20,7 +20,7 @@ create_mainfest_file(){
       random-route: true
       memory: ${IBM_MEM_SIZE}M
 EOF
-
+ 
      echo "配置完成。"
 }
 
